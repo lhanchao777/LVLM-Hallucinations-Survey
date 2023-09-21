@@ -22,4 +22,5 @@ We categorize existing papers according to the definition, evaluation, and mitig
 2. Hu H, Zhang J, Zhao M, et al. [CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning](https://arxiv.org/abs/2309.02301)[J]. arXiv preprint arXiv:2309.02301, 2023.
 3. Gunjal A, Yin J, Bas E. [Detecting and preventing hallucinations in large vision language models](https://arxiv.org/abs/2308.06394)[J]. arXiv preprint arXiv:2308.06394, 2023.
 4. Wang B, Wu F, Han X, et al. [VIGC: Visual Instruction Generation and Correction](https://arxiv.org/abs/2308.12714)[J]. arXiv preprint arXiv:2308.12714, 2023.
+5. Liu F, Lin K, Li L, et al. [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)[J]. arXiv preprint arXiv:2306.14565, 2023.
 
