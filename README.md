@@ -1,5 +1,5 @@
 # Papers for Hallucinations in Large Vision-Language Models
-We categorize existing papers according to the definition, evaluation, and mitigation of hallucinations in Large Vision-Language Models(LVLMs). It is worth noting that some papers may exist in multiple categories mentioned above.
+We categorize existing papers according to the definition, evaluation, and mitigation of hallucinations in Large Vision-Language Models(LVLMs). **It is worth noting that some papers may exist in multiple categories mentioned above.**
 <br></br>
 
 ## Definitions of Hallucinations in Vision-Language Models
@@ -14,6 +14,7 @@ We categorize existing papers according to the definition, evaluation, and mitig
 4. Gunjal A, Yin J, Bas E. [Detecting and preventing hallucinations in large vision language models](https://arxiv.org/abs/2308.06394)[J]. arXiv preprint arXiv:2308.06394, 2023.
 5. Wang J, Zhou Y, Xu G, et al. [Evaluation and Analysis of Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2308.15126)[J]. arXiv preprint arXiv:2308.15126, 2023.
 6. Liu H, Wan X. [Models See Hallucinations: Evaluating the Factuality in Video Captioning](https://arxiv.org/abs/2303.02961)[J]. arXiv preprint arXiv:2303.02961, 2023.
+7. Liu F, Lin K, Li L, et al. [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)[J]. arXiv preprint arXiv:2306.14565, 2023.
 
 <br></br>
 
