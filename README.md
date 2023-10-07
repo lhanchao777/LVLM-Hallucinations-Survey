@@ -25,6 +25,6 @@ We categorize existing papers according to the definition, evaluation, and mitig
 4. Gunjal A, Yin J, Bas E. [Detecting and preventing hallucinations in large vision language models](https://arxiv.org/abs/2308.06394)[J]. arXiv preprint arXiv:2308.06394, 2023.
 5. Wang B, Wu F, Han X, et al. [VIGC: Visual Instruction Generation and Correction](https://arxiv.org/abs/2308.12714)[J]. arXiv preprint arXiv:2308.12714, 2023.
 6. Liu F, Lin K, Li L, et al. [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)[J]. arXiv preprint arXiv:2306.14565, 2023.
-7. Zhou Y, Cui C, Yoon J, et al. [Analyzing and Mitigating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2310.00754) arXiv preprint arXiv:2310.00754, 2023.
-8. Zhai B, Yang S, Zhao X, et al. [HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption](https://arxiv.org/abs/2310.01779) arxiv preprint arXiv:2310.01779, 2023.
+7. Zhou Y, Cui C, Yoon J, et al. [Analyzing and Mitigating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2310.00754)[J]. arXiv preprint arXiv:2310.00754, 2023.
+8. Zhai B, Yang S, Zhao X, et al. [HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption](https://arxiv.org/abs/2310.01779)[J]. arxiv preprint arXiv:2310.01779, 2023.
 
