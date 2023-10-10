@@ -15,6 +15,7 @@ We categorize existing papers according to the definition, evaluation, and mitig
 5. Wang J, Zhou Y, Xu G, et al. [Evaluation and Analysis of Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2308.15126)[J]. arXiv preprint arXiv:2308.15126, 2023.
 6. Liu H, Wan X. [Models See Hallucinations: Evaluating the Factuality in Video Captioning](https://arxiv.org/abs/2303.02961)[J]. arXiv preprint arXiv:2303.02961, 2023.
 7. Liu F, Lin K, Li L, et al. [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)[J]. arXiv preprint arXiv:2306.14565, 2023.
+8. Lovenia H, Dai W, Cahyawijaya S, et al. [Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2310.05338)[J]. arXiv preprint arXiv:2310.05338, 2023.
 
 <br></br>
 
