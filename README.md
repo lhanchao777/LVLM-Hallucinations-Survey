@@ -18,6 +18,7 @@ We categorize existing papers according to the definition, evaluation, and mitig
 8. Lovenia H, Dai W, Cahyawijaya S, et al. [Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2310.05338)[J]. arXiv preprint arXiv:2310.05338, 2023.
 9. liu F, Guan T, Li Z, et al. [HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models](https://arxiv.org/abs/2310.14566)[J]. arXiv preprint arXiv:2310.14566, 2023.
 10. Lovenia H, Dai W, Cahyawijaya S, et al. [Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2310.05338)[J]. arXiv preprint arXiv:2310.05338, 2023.
+11. Jing L, Li R, Chen Y, et al. [FAITHSCORE: Evaluating Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2311.01477)[J]. arXiv preprint arXiv:2311.01477, 2023.
 
 <br></br>
 
