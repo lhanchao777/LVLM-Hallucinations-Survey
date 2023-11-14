@@ -35,4 +35,5 @@ We categorize existing papers according to the definition, evaluation, and mitig
 10. Zhai B, Yang S, Zhao X, et al. [HallE-Switch: Rethinking and Controlling Object Existence Hallucinations in Large Vision Language Models for Detailed Caption](https://arxiv.org/abs/2310.01779)[J]. arxiv preprint arXiv:2310.01779, 2023.
 11. Yin S, Fu C, Zhao S, et al. [Woodpecker: Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/abs/2310.16045)[J]. arXiv preprint arXiv:2310.16045, 2023.
 12. Lu J, Rao J, Chen K, et al. [Evaluation and Mitigation of Agnosia in Multimodal Large Language Models](https://arxiv.org/abs/2309.04041)[J]. arXiv preprint arXiv:2309.04041, 2023.
+13. Lee S, Park S H, Jo Y, et al. [Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision](https://arxiv.org/abs/2311.07362)[J]. arXiv preprint arXiv:2311.07362, 2023.
 
