@@ -38,5 +38,4 @@ We categorize existing papers according to the definition, evaluation, and mitig
 13. Lee S, Park S H, Jo Y, et al. [Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision](https://arxiv.org/abs/2311.07362)[J]. arXiv preprint arXiv:2311.07362, 2023.
 14. Zhao Z, Wang B, Ouyang L, et al. [Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization](https://arxiv.org/abs/2311.16839)[J]. arXiv preprint arXiv:2311.16839, 2023.
 15. Leng S, Zhang H, Chen G, et al. [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)[J]. arXiv preprint arXiv:2311.16922, 2023.
-16. 
 
