@@ -38,4 +38,9 @@ We categorize existing papers according to the definition, evaluation, and mitig
 13. Lee S, Park S H, Jo Y, et al. [Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision](https://arxiv.org/abs/2311.07362)[J]. arXiv preprint arXiv:2311.07362, 2023.
 14. Zhao Z, Wang B, Ouyang L, et al. [Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization](https://arxiv.org/abs/2311.16839)[J]. arXiv preprint arXiv:2311.16839, 2023.
 15. Leng S, Zhang H, Chen G, et al. [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)[J]. arXiv preprint arXiv:2311.16922, 2023.
+16. Huang Q, Dong X, Zhang P, et al. [OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation](https://arxiv.org/abs/2311.17911)[J]. arXiv preprint arXiv:2311.17911, 2023.
+17. Chen Z, Zhu Y, Zhan Y, et al. [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/abs/2311.16479)[J]. arXiv preprint arXiv:2311.16479, 2023.
+18. Yu Q, Li J, Wei L, et al. [HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data](https://arxiv.org/abs/2311.13614)[J]. arXiv preprint arXiv:2311.12614, 2023.
+19. Yu T, Yao Y, Zhang H, et al. [RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/abs/2312.00849)[J]. arXiv preprint arXiv:2312.00849, 2023.
+20. Wang L, He J, Li S, et al. [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/abs/2312.01701)[C]. International Conference on Multimedia Modeling, 2023.
 
