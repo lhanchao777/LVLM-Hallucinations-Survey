@@ -3,7 +3,7 @@
 
 **This is the first released survey paper in the field of hallucinations in large vision-language models (LVLMs). Our paper focuses on the benchmark, evaluation methods, causes and mitigation methods of hallucinations in LVLMs.**
 
-**Paper link:** [A Survey on Hallucination in Large Vision-Language Models]((https://arxiv.org/abs/2402.00253)
+**Paper link:** [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
 
 ![Hallucinations examples in LVLMs](https://github.com/lhanchao777/Papers-for-Hallucinations-in-Large-Vision-Language-Models/assets/22700712/6768e5ae-15ec-4d6a-b081-23ccc78cca87)
 
