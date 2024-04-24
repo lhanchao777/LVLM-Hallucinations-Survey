@@ -1,19 +1,16 @@
 # A Survey on Hallucination in Large Vision-Language Models
 *updated 2024/02/01*
 
+**This is the first released survey paper in the field of hallucinations in large vision-language models (LVLMs). Our paper focuses on the benchmark, evaluation methods, causes and mitigation methods of hallucinations in LVLMs.**
+**Paper link:** [A Survey on Hallucination in Large Vision-Language Models]((https://arxiv.org/abs/2402.00253)
+
 ![Hallucination examples in LVLMs.](https://github.com/lhanchao777/Papers-for-Hallucinations-in-Large-Vision-Language-Models/assets/22700712/6947adfd-570d-4c9e-ac74-c506168be658)
 
 Recent development of Large Vision-Language Models (LVLMs) has attracted growing attention within the AI landscape for its practical implementation potential. However, ''hallucination'', or more specifically, the misalignment between factual visual content and corresponding textual generation, poses a significant challenge of utilizing LVLMs. In this comprehensive survey, we dissect LVLM-related hallucinations in an attempt to establish an overview and facilitate future mitigation. Our scrutiny starts with a clarification of the concept of hallucinations in LVLMs, presenting a variety of hallucination symptoms and highlighting the unique challenges inherent in LVLM hallucinations. Subsequently, we outline the benchmarks and methodologies tailored specifically for evaluating hallucinations unique to LVLMs. Additionally, we delve into an investigation of the root causes of these hallucinations, encompassing insights from the training data and model components. We also critically review existing methods for mitigating hallucinations. The open questions and future directions pertaining to hallucinations within LVLMs are discussed to conclude this survey.
 
-**This is the first survey on hallucinations in large vision-language models. ** 
-
-We categorize existing papers according to the definition, evaluation, and mitigation of hallucinations in Large Vision-Language Models(LVLMs). **It is worth noting that some papers may exist in multiple categories mentioned above.**
-<br></br>
-
 ## Definitions of Hallucinations in Vision-Language Models
 1. Rohrbach A, Hendricks L A, Burns K, et al. [Object hallucination in image captioning](https://arxiv.org/abs/1809.02156)[J]. arXiv preprint arXiv:1809.02156, 2018.
 
-<br></br>
 
 ## Evaluation of Hallucinations in Large Vision-Language Models
 1. Rohrbach A, Hendricks L A, Burns K, et al. [Object hallucination in image captioning](https://arxiv.org/abs/1809.02156)[J]. arXiv preprint arXiv:1809.02156, 2018.
