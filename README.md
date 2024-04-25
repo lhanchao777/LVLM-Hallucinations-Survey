@@ -5,7 +5,7 @@
 
 **Paper link:** [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
 
-![Hallucinations examples in LVLMs](https://github.com/lhanchao777/Papers-for-Hallucinations-in-Large-Vision-Language-Models/assets/22700712/6768e5ae-15ec-4d6a-b081-23ccc78cca87)
+![Hallucinations examples in LVLMs](https://github.com/lhanchao777/Papers-for-Hallucinations-in-Large-Vision-Language-Models/assets/22700712/b7f29db1-7d60-4e39-99e5-99206272e039)
 
 
 
