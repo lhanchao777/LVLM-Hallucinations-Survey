@@ -30,6 +30,9 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star) <br> [**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**](https://arxiv.org/pdf/2404.13874.pdf) <br> | **VALOR-Eval** | arXiv | 2024-04-22 | [Github](https://github.com/haoyiq114/VALOR) |
+| [**ALOHa: A New Measure for Hallucination in Captioning Models**](https://arxiv.org/pdf/2404.02904.pdf) <br> | **ALOHa** | arXiv | 2024-04-03 | |
+| [**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**](https://arxiv.org/pdf/2403.15048.pdf) <br> | **PA-ICVL (for hallucinations in generated images)** | arXiv | 2024-03-22 | |
 | ![Star](https://img.shields.io/github/stars/bcdnlp/FAITHSCORE.svg?style=social&label=Star) <br> [**FAITHSCORE: Evaluating Hallucinations in Large Vision-Language Models**](https://arxiv.org/pdf/2311.01477.pdf) <br> | **FAITHSCORE** | arXiv | 2023-11-02 | [Github](https://github.com/bcdnlp/FAITHSCORE) |
 | [**Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models**](https://arxiv.org/pdf/2310.05338.pdf) | **NOPE** | arXiv | 2023-10-09 | |
 | ![Star](https://img.shields.io/github/stars/bronyayang/HallE_Control.svg?style=social&label=Star) <br> [**HallE-Control: Controlling Object Hallucination in Large Multimodal Models**](https://arxiv.org/pdf/2310.01779.pdf) <br> | **CCEval** | arXiv | 2023-10-03 | [Github](https://github.com/bronyayang/HallE_Control) |
@@ -47,6 +50,8 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star) <br> [**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**](https://arxiv.org/pdf/2404.13874.pdf) <br> | **VALOR** | arXiv | 2024-04-22 | [Github](https://github.com/haoyiq114/VALOR) |
+| ![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star) <br> [**PhD: A Prompted Visual Hallucination Evaluation Dataset**](https://arxiv.org/pdf/2403.11116.pdf) <br> | **Phd** | arXiv | 202403-17 | [Github](https://github.com/jiazhen-code/IntrinsicHallu) |
 | ![Star](https://img.shields.io/github/stars/junyangwang0410/AMBER.svg?style=social&label=Star) <br> [**An llm-free multi-dimensional benchmark for mllms hallucination evaluation**](https://arxiv.org/pdf/2311.07397.pdf) <br> | **AMBER** | arXiv | 2023-11-13 | [Github](https://github.com/junyangwang0410/AMBER) |
 | ![Star](https://img.shields.io/github/stars/bcdnlp/FAITHSCORE.svg?style=social&label=Star) <br> [**FAITHSCORE: Evaluating Hallucinations in Large Vision-Language Models**](https://arxiv.org/pdf/2311.01477.pdf) <br> | **FAITHSCORE** | arXiv | 2023-11-02 | [Github](https://github.com/bcdnlp/FAITHSCORE) |
 | [**Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models**](https://arxiv.org/pdf/2310.05338.pdf) | **NOPE** | arXiv | 2023-10-09 | |
@@ -63,6 +68,20 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback**](https://arxiv.org/pdf/2404.14233.pdf) | **HSA-DPO** | arXiv | 2024-04-22 | |
+| [**Fact :Teaching MLLMs with Faithful, Concise and Transferable Rationales**](https://arxiv.org/pdf/2404.11129.pdf) | **Fact** | arXiv | 2023-04-17 | |
+| [**Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning**](https://arxiv.org/pdf/2404.10332.pdf) | **DFTG** | arXiv | 2024-04-16 | |
+| [**Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs**](https://arxiv.org/pdf/2404.07449.pdf) | | arXiv | 2024-04-11 | |
+| [**BRAVE: Broadening the visual encoding of vision-language models**](https://arxiv.org/pdf/2404.07204.pdf) | **BRAVE** | arXiv | 2024-04-10 | |
+| [**FGAIF: Aligning Large Vision-Language Models with Fine-grained AI Feedback**](https://arxiv.org/pdf/2404.05046.pdf) | **FGAIF** | arXiv | 2024-04-07 | |
+| ![Star](https://img.shields.io/github/stars/opendatalab/H2RSVLM.svg?style=social&label=Star) <br> [**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**](https://arxiv.org/pdf/2403.20213.pdf) <br> | **RSSA** | arXiv | 2024-03-29 | [Github](https://github.com/opendatalab/H2RSVLM) |
+| [**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**](https://arxiv.org/pdf/2403.18715.pdf) | **ICD** | arXiv | 2024-03-27 | |
+| [**Visual Hallucination: Definition, Quantification, and Prescriptive Remediations**](https://arxiv.org/pdf/2403.17306.pdf) | | arXiv | 2024-03-26 | |
+| [**Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models**](https://arxiv.org/pdf/2403.16167.pdf) | **ESREAL** | arXiv | 2024-03-24 | |
+| ![Star](https://img.shields.io/github/stars/DingchenYang99/Pensieve.svg?style=social&label=Star) <br> [**Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination**](https://arxiv.org/pdf/2403.14401.pdf) <br> | **Pensieve** | arXiv | 2024-03-21 | [Github](https://github.com/DingchenYang99/Pensieve) |
+| [**Multi-Modal Hallucination Control by Visual Information Grounding**](https://arxiv.org/pdf/2403.14003.pdf) | **M3ID** | arXiv | 2024-03-20 | |
+| ![Star](https://img.shields.io/github/stars/IVY-LVLM/Counterfactual-Inception.svg?style=social&label=Star) <br> [**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**](https://arxiv.org/pdf/2403.13513.pdf) <br> | **Counterfactual Inception** | arXiv | 2024-03-20 | [Github](https://github.com/IVY-LVLM/Counterfactual-Inception) |
+| ![Star](https://img.shields.io/github/stars/yfzhang114/LLaVA-Align.svg?style=social&label=Star) <br> [**Debiasing Multimodal Large Language Models**](https://arxiv.org/pdf/2403.05262.pdf) <br> | | arXiv | 2024-03-08 | [Github](https://github.com/yfzhang114/LLaVA-Align) |
 | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**](https://arxiv.org/pdf/2312.14238.pdf) <br> | **InternVL** | arXiv | 2023-12-21 | [Github](https://github.com/OpenGVLab/InternVL) |
 | ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star) <br> [**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**](https://arxiv.org/pdf/2312.14233.pdf) <br> | **VCoder** | arXiv | 2023-12-21 | [Github](https://github.com/SHI-Labs/VCoder) |
 | [**Hallucination augmented contrastive learning for multimodal large language model**](https://arxiv.org/pdf/2312.06968.pdf)| **HACL** | arXiv | 2023-12-12 | [Github](https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl) |
