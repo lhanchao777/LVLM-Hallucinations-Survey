@@ -52,9 +52,9 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star) <br> [**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**](https://arxiv.org/pdf/2404.13874.pdf) <br> | **VALOR** | arXiv | 2024-04-22 | [Github](https://github.com/haoyiq114/VALOR) |
+| ![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star) <br> [**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**](https://arxiv.org/pdf/2404.13874.pdf) <br> | **VALOR-BENCH** | arXiv | 2024-04-22 | [Github](https://github.com/haoyiq114/VALOR) |
 | ![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star) <br> [**PhD: A Prompted Visual Hallucination Evaluation Dataset**](https://arxiv.org/pdf/2403.11116.pdf) <br> | **Phd** | arXiv | 2024-03-17 | [Github](https://github.com/jiazhen-code/IntrinsicHallu) |
-| [**Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models**](https://arxiv.org/pdf/2403.11116.pdf) | **Hal-Eval** | arXiv | 2024-02-24 | |
+| [**Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models**](https://arxiv.org/pdf/2402.15721.pdf) | **AFHA** | arXiv | 2024-02-24 | |
 | ![Star](https://img.shields.io/github/stars/wenhuang2000/VHTest.svg?style=social&label=Star) <br> [**Visual Hallucinations of Multi-modal Large Language Models**](https://arxiv.org/pdf/2402.14683.pdf) <br> | **VHTest** | arXiv | 2024-02-22 | [Github](https://github.com/wenhuang2000/VHTest) |
 | [**Visually Dehallucinative Instruction Generation: Know What You Don't Know**](https://arxiv.org/pdf/2402.09717.pdf) | **VQAv2-IDK** | arXiv | 2024-02-15 | |
 | ![Star](https://img.shields.io/github/stars/MasaiahHan/CorrelationQA.svg?style=social&label=Star) <br> [**The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs**](https://arxiv.org/pdf/2402.03757.pdf) <br> | **CorrelationQA** | arXiv | 2024-02-06 | [Github](https://github.com/MasaiahHan/CorrelationQA) |
