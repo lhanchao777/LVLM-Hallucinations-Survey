@@ -30,7 +30,7 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://github.com/postech-ami/BEAF?tab=readme-ov-file) <br> [**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**](https://arxiv.org/pdf/2407.13442) <br> | **BEAF** | arXiv | 2024-07-18 | [Github](https://github.com/postech-ami/BEAF?tab=readme-ov-file) |
+| ![Star](https://github.com/postech-ami/BEAF?tab=readme-ov-file.svg?style=social&label=Star) <br> [**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**](https://arxiv.org/pdf/2407.13442) <br> | **BEAF** | arXiv | 2024-07-18 | [Github](https://github.com/postech-ami/BEAF?tab=readme-ov-file) |
 | ![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star) <br> [**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**](https://arxiv.org/pdf/2404.13874.pdf) <br> | **VALOR-Eval** | arXiv | 2024-04-22 | [Github](https://github.com/haoyiq114/VALOR) |
 | [**ALOHa: A New Measure for Hallucination in Captioning Models**](https://arxiv.org/pdf/2404.02904.pdf) <br> | **ALOHa** | arXiv | 2024-04-03 | |
 | [**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**](https://arxiv.org/pdf/2403.15048.pdf) <br> | **PA-ICVL (for hallucinations in generated images)** | arXiv | 2024-03-22 | |
