@@ -30,7 +30,9 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://github.com/postech-ami/BEAF?tab=readme-ov-file.svg?style=social&label=Star) <br> [**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**](https://arxiv.org/pdf/2407.13442) <br> | **BEAF** | arXiv | 2024-07-18 | [Github](https://github.com/postech-ami/BEAF?tab=readme-ov-file) |
+| ![Star](https://img.shields.io/github/stars/postech-ami/BEAF?tab=readme-ov-file.svg?style=social&label=Star) <br> [**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**](https://arxiv.org/pdf/2407.13442) <br> | **BEAF** | arXiv | 2024-07-18 | [Github](https://github.com/postech-ami/BEAF?tab=readme-ov-file) |
+| [**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**](https://arxiv.org/pdf/2406.10185) <br> | **MediHall Score** | arXiv | 2024-06-14 | |
+| [**MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification**](https://arxiv.org/pdf/2405.19186) <br> | **MetaToken** | arXiv | 2024-05-29 | |
 | ![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star) <br> [**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**](https://arxiv.org/pdf/2404.13874.pdf) <br> | **VALOR-Eval** | arXiv | 2024-04-22 | [Github](https://github.com/haoyiq114/VALOR) |
 | [**ALOHa: A New Measure for Hallucination in Captioning Models**](https://arxiv.org/pdf/2404.02904.pdf) <br> | **ALOHa** | arXiv | 2024-04-03 | |
 | [**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**](https://arxiv.org/pdf/2403.15048.pdf) <br> | **PA-ICVL (for hallucinations in generated images)** | arXiv | 2024-03-22 | |
@@ -53,6 +55,15 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/google/haloquest.svg?style=social&label=Star) <br> [**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**](https://arxiv.org/pdf/2407.15680.pdf) <br> | **HaloQuest** | arXiv | 2024-07-22 | [Github](https://github.com/google/haloquest) |
+| [**MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context**](https://arxiv.org/pdf/2407.02730.pdf) <br> | **MedVH** | arXiv | 2024-07-02 | |
+| ![Star](https://img.shields.io/github/stars/HQHBench/HQHBench.svg?style=social&label=Star) <br> [**Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models**](https://arxiv.org/pdf/2406.17115.pdf) <br> | **HOH** | arXiv | 2024-06-24 | [Github](https://github.com/HQHBench/HQHBench) |
+| ![Star](https://img.shields.io/github/stars/mrwu-mac/R-Bench.svg?style=social&label=Star) <br> [**Evaluating and Analyzing Relationship Hallucinations in Large Vision-Language Models**](https://arxiv.org/pdf/2406.16449.pdf) <br> | **R-Bench** | ICML 2024 | 2024-06-24 | [Github](https://github.com/mrwu-mac/R-Bench) |
+| [**AUTOHALLUSION: Automatic Generation of Hallucination Benchmarks for Vision-Language Models**](https://arxiv.org/pdf/2406.10900.pdf) <br> | **AUTOHALLUSION** | arXiv | 2024-06-16 | |
+| [**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**](https://arxiv.org/pdf/2406.10185.pdf) <br> | **Med-HallMark** | arXiv | 2024-06-14 | |
+| [**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**](https://arxiv.org/pdf/2405.15683.pdf) <br> | **VaLLu** | arXiv | 2024-05-24 | |
+| [**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**](https://arxiv.org/pdf/2405.05256.pdf) <br> | **FineMatch** | CVPR 2024 | 2024-05-08 | |
+| ![Star](https://img.shields.io/github/stars/hanghuacs/finematch.svg?style=social&label=Star) <br> [**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**](https://arxiv.org/pdf/2404.14715.pdf) <br> | **FineMatch** | ECCV 2024 | 2024-04-22 | [Github](https://github.com/hanghuacs/finematch/tree/main) |
 | ![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star) <br> [**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**](https://arxiv.org/pdf/2404.13874.pdf) <br> | **VALOR-BENCH** | arXiv | 2024-04-22 | [Github](https://github.com/haoyiq114/VALOR) |
 | ![Star](https://img.shields.io/github/stars/jiazhen-code/IntrinsicHallu.svg?style=social&label=Star) <br> [**PhD: A Prompted Visual Hallucination Evaluation Dataset**](https://arxiv.org/pdf/2403.11116.pdf) <br> | **Phd** | arXiv | 2024-03-17 | [Github](https://github.com/jiazhen-code/IntrinsicHallu) |
 | [**Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models**](https://arxiv.org/pdf/2402.15721.pdf) | **AFHA** | arXiv | 2024-02-24 | |
