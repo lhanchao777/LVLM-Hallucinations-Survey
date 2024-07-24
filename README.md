@@ -93,7 +93,7 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 | [**AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention**](https://arxiv.org/pdf/2406.12718.pdf) <br> | **AGLA** | arXiv | 2024-06-18 | |
 | [**Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?**](https://arxiv.org/pdf/2406.12663.pdf) <br> | **DBD** | arXiv | 2024-06-18 | |
 | [**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**](https://arxiv.org/pdf/2406.11839.pdf) <br> | **mDPO** | arXiv | 2024-06-17 | |
-| [**MedThink: Inducing Medical Large-scale Visual Language Models to Hallucinate Less by Thinking More**](https://arxiv.org/pdf/2406.11451.pdf) <br> | **NoiseBoost** | arXiv | 2024-06-17 | |
+| [**MedThink: Inducing Medical Large-scale Visual Language Models to Hallucinate Less by Thinking More**](https://arxiv.org/pdf/2406.11451.pdf) <br> | **MedThink** | arXiv | 2024-06-17 | |
 | [**NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models**](https://arxiv.org/pdf/2405.20081.pdf) <br> | **NoiseBoost** | arXiv | 2024-05-31 | |
 | [**Mitigating Object Hallucination via Data Augmented Contrastive Tuning**](https://arxiv.org/pdf/2405.18654.pdf) <br> | | arXiv | 2024-05-28 | |
 | ![Star](https://img.shields.io/github/stars/sangminwoo/RITUAL.svg?style=social&label=Star) <br> [**RITUAL: Random Image Transformations as a Universal Anti-hallucination Lever in LVLMs**](https://arxiv.org/pdf/2405.17821.pdf) <br> | **AvisC** | arXiv | 2024-05-28 | [Github](https://github.com/sangminwoo/RITUAL) |
