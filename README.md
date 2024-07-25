@@ -30,7 +30,7 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/postech-ami/BEAF?tab=readme-ov-file.svg?style=social&label=Star) <br> [**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**](https://arxiv.org/pdf/2407.13442) <br> | **BEAF** | arXiv | 2024-07-18 | [Github](https://github.com/postech-ami/BEAF?tab=readme-ov-file) |
+| ![Star](https://img.shields.io/github/stars/postech-ami/BEAF?tab=readme-ov-file.svg?style=social&label=Star) <br> [**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**](https://arxiv.org/pdf/2407.13442) <br> | **BEAF** | ECCV 2024 | 2024-07-18 | [Github](https://github.com/postech-ami/BEAF?tab=readme-ov-file) |
 | [**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**](https://arxiv.org/pdf/2406.10185) <br> | **MediHall Score** | arXiv | 2024-06-14 | |
 | [**MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification**](https://arxiv.org/pdf/2405.19186) <br> | **MetaToken** | arXiv | 2024-05-29 | |
 | ![Star](https://img.shields.io/github/stars/haoyiq114/VALOR.svg?style=social&label=Star) <br> [**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**](https://arxiv.org/pdf/2404.13874.pdf) <br> | **VALOR-Eval** | ACL 2024 Findings | 2024-04-22 | [Github](https://github.com/haoyiq114/VALOR) |
