@@ -56,6 +56,7 @@ Recent development of Large Vision-Language Models (LVLMs) has attracted growing
 
 |  Title  |   Name  |   Venue   |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/HATS-ICT/GameplayQA.svg?style=social&label=Star) <br> [**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**](https://arxiv.org/pdf/2603.24329) <br> | **GameplayQA** (distractor taxonomy for video hallucinations) | ACL 2026 | 2026-03 | [Github](https://github.com/HATS-ICT/GameplayQA) |
 | ![Star](https://img.shields.io/github/stars/google/haloquest.svg?style=social&label=Star) <br> [**HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning**](https://arxiv.org/pdf/2407.15680.pdf) <br> | **HaloQuest** | arXiv | 2024-07-22 | [Github](https://github.com/google/haloquest) |
 | [**MedVH: Towards Systematic Evaluation of Hallucination for Large Vision Language Models in the Medical Context**](https://arxiv.org/pdf/2407.02730.pdf) <br> | **MedVH** | arXiv | 2024-07-02 | |
 | ![Star](https://img.shields.io/github/stars/HQHBench/HQHBench.svg?style=social&label=Star) <br> [**Evaluating the Quality of Hallucination Benchmarks for Large Vision-Language Models**](https://arxiv.org/pdf/2406.17115.pdf) <br> | **HQH** | arXiv | 2024-06-24 | [Github](https://github.com/HQHBench/HQHBench) |
